@@ -12,7 +12,7 @@
     <img src="docs/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Caching Fu</h3>
+  <h3 align="center">Caching Function</h3>
 
   <p align="center">
    Serverless function for AWS that calls a endpoint in <a href="https://github.com/6CCS3PRJ/server">server</a>. Developed as part of <a href="https://github.com/danilo-delbusso"><b>@danilo-delbusso</b></a>'s a final year project
