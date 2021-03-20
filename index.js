@@ -1,3 +1,4 @@
+const fetch = require('node-fetch');
 const DEFAULT_API_ENDPOINT = "http://localhost:4683/api/v1/wifis/get/reloadFeatureCache"
 
 const startRequest = async (event) => {

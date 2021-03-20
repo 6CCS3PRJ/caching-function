@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/6CCS3PRJ/caching-function/issues"
   },
-  "homepage": "https://github.com/6CCS3PRJ/caching-function#readme"
+  "homepage": "https://github.com/6CCS3PRJ/caching-function#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
