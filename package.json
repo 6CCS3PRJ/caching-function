@@ -1,0 +1,29 @@
+{
+  "name": "caching-function",
+  "version": "0.0.1",
+  "description": "Serverless function for AWS that calls a endpoint in server.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6CCS3PRJ/caching-function.git"
+  },
+  "keywords": [
+    "function",
+    "aws",
+    "caching",
+    "serverless",
+    "lambda"
+  ],
+  "author": "Danilo Del Busso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/6CCS3PRJ/caching-function/issues"
+  },
+  "homepage": "https://github.com/6CCS3PRJ/caching-function#readme"
+}
