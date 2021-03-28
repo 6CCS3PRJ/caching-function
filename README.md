@@ -73,7 +73,11 @@ To install, first clone the repository
 git clone https://github.com/6CCS3PRJ/caching-function.git
 ```
 
-There are no dependencies
+Then install dependencies by using
+
+```zsh
+npm install
+```
 
 The function is built to be invoked by AWS lambda. You can call it manually by calling the `startRequest` function in `index.js`.
 
