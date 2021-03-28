@@ -8,16 +8,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/6CCS3PRJ/caching-function">
+  <a href="https://github.com/wifi-tracing/caching-function">
     <img src="docs/icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Caching Function</h3>
 
   <p align="center">
-   Serverless function for AWS that calls a endpoint in <a href="https://github.com/6CCS3PRJ/server">server</a>. Developed as part of <a href="https://github.com/danilo-delbusso"><b>@danilo-delbusso</b></a>'s a final year project
+   Serverless function for AWS that calls a endpoint in <a href="https://github.com/wifi-tracing/server">server</a>. Developed as part of <a href="https://github.com/danilo-delbusso"><b>@danilo-delbusso</b></a>'s a final year project
     <br />
-    <a href="https://github.com/6CCS3PRJ/caching-function/issues">Report Bug</a>
+    <a href="https://github.com/wifi-tracing/caching-function/issues">Report Bug</a>
   </p>
 </p>
 
@@ -70,7 +70,7 @@ It is suggested to install Node.js and npm using [nvm](https://github.com/nvm-sh
 To install, first clone the repository
 
 ```zsh
-git clone https://github.com/6CCS3PRJ/caching-function.git
+git clone https://github.com/wifi-tracing/caching-function.git
 ```
 
 Then install dependencies by using
@@ -84,7 +84,7 @@ The function is built to be invoked by AWS lambda. You can call it manually by c
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/6CCS3PRJ/caching-function/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/wifi-tracing/caching-function/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
@@ -111,15 +111,15 @@ Danilo Del Busso - [@danilo_delbusso](https://twitter.com/danilo_delbusso)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/6CCS3PRJ/caching-function.svg?style=for-the-badge
-[contributors-url]: https://github.com/6CCS3PRJ/caching-function/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/6CCS3PRJ/caching-function.svg?style=for-the-badge
-[forks-url]: https://github.com/6CCS3PRJ/caching-function/network/members
-[stars-shield]: https://img.shields.io/github/stars/6CCS3PRJ/caching-function.svg?style=for-the-badge
-[stars-url]: https://github.com/6CCS3PRJ/caching-function/stargazers
-[issues-shield]: https://img.shields.io/github/issues/6CCS3PRJ/caching-function.svg?style=for-the-badge
-[issues-url]: https://github.com/6CCS3PRJ/caching-function/issues
-[license-shield]: https://img.shields.io/github/license/6CCS3PRJ/caching-function.svg?style=for-the-badge
-[license-url]: https://github.com/6CCS3PRJ/caching-function/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/wifi-tracing/caching-function.svg?style=for-the-badge
+[contributors-url]: https://github.com/wifi-tracing/caching-function/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/wifi-tracing/caching-function.svg?style=for-the-badge
+[forks-url]: https://github.com/wifi-tracing/caching-function/network/members
+[stars-shield]: https://img.shields.io/github/stars/wifi-tracing/caching-function.svg?style=for-the-badge
+[stars-url]: https://github.com/wifi-tracing/caching-function/stargazers
+[issues-shield]: https://img.shields.io/github/issues/wifi-tracing/caching-function.svg?style=for-the-badge
+[issues-url]: https://github.com/wifi-tracing/caching-function/issues
+[license-shield]: https://img.shields.io/github/license/wifi-tracing/caching-function.svg?style=for-the-badge
+[license-url]: https://github.com/wifi-tracing/caching-function/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/danilo-delbusso/
