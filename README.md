@@ -1,4 +1,4 @@
-[![Contributors][contributors-shield]][contributors-url]
+[![Release][release-shield]][release-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -111,8 +111,8 @@ Danilo Del Busso - [@danilo_delbusso](https://twitter.com/danilo_delbusso)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/wifi-tracing/caching-function.svg?style=for-the-badge
-[contributors-url]: https://github.com/wifi-tracing/caching-function/graphs/contributors
+[release-shield]: https://img.shields.io/github/v/release/wifi-tracing/caching-function?style=for-the-badge
+[release-url]: https://github.com/wifi-tracing/caching-function/releases
 [forks-shield]: https://img.shields.io/github/forks/wifi-tracing/caching-function.svg?style=for-the-badge
 [forks-url]: https://github.com/wifi-tracing/caching-function/network/members
 [stars-shield]: https://img.shields.io/github/stars/wifi-tracing/caching-function.svg?style=for-the-badge
