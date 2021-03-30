@@ -28,5 +28,9 @@
   "homepage": "https://github.com/6CCS3PRJ/caching-function#readme",
   "dependencies": {
     "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.23.0",
+    "eslint-config-google": "^0.14.0"
   }
 }
