@@ -22,50 +22,13 @@
 </p>
 
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-
-## About The Project
+# ℹ About The Project
 
 The project contains a simple AWS lambda function that invokes an endpoint to start the caching process for feature statistics calculation.
 
 It does not implement authentication, since the REST API does not contain any.
 
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-Installation for this project are described for linux. For other operating systems, please refer to the links provided.
-
-* [Node.js](https://nodejs.org/en/)
-* [npm](http://npmjs.com/)
-
-It is suggested to install Node.js and npm using [nvm](https://github.com/nvm-sh/nvm#install--update-script).
-
-### Installation
+# 💽 Installation
 
 To install, first clone the repository
 
@@ -82,13 +45,13 @@ npm install
 The function is built to be invoked by AWS lambda. You can call it manually by calling the `startRequest` function in `index.js`.
 
 <!-- ROADMAP -->
-## Roadmap
+# 🗺 Roadmap
 
 See the [open issues](https://github.com/wifi-tracing/caching-function/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+# 💁 Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create.
 
@@ -96,16 +59,16 @@ Contributions are what make the open source community such an amazing place to b
 The repo itself is just used to show the project. It is **NOT** actively maintained. The author suggests forking the project instead of opening new issues.
 
 <!-- LICENSE -->
-## License
+# ⚖ License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
-## Contact
+# 🐦 Contact
 
 Danilo Del Busso - [@danilo_delbusso](https://twitter.com/danilo_delbusso)
 
-### Attributions
+# 🙏 Attributions
 
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
